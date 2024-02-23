@@ -1,4 +1,4 @@
-# LC Lab - Spring 2023
+# LC Lab - Spring 2024
 
  ### Instructors:
 | Row | Name | Email |
